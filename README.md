@@ -1,4 +1,4 @@
-This is day[9]'s Mental Checklist Coacher version 1.0
+Mental Checklist Coacher according to day[9]
 ============================
 
 Compliance with anti-cheating policies - official statement
