@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Playlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entries Path=".\Sounds\Build probe.wav" SlotDuration="3" />
+  <Entries Path=".\Sounds\Check money.wav" SlotDuration="1" />
+  <Entries Path=".\Sounds\Check food.wav" SlotDuration="1" />
+  <Entries Path=".\Sounds\Check map.wav" SlotDuration="12" />
+</Playlist>
